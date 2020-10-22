@@ -29,6 +29,11 @@ In the end of this document, you will find guidelines on how to submit the exerc
 Your task is to build a complete shopping cart using react. We would create a vegetable and fruit online market using react app. Your application involves the following features, 
 make sure you did not miss out the features specified below.
 
+```
+API DETAILS
+https://api.mocki.io/v1/7bd0682b
+```
+
 Kindly see the output:
 
 ![Image description](https://i1.faceprep.in/ProGrad/Progression-1.gif)
