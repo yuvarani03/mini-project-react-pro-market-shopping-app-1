@@ -54,7 +54,7 @@ Kindly see the output:
 - Inside the shopping cart the customer can increase or decrease the quantity.
 
 ### PROGRESSION 1 | FILL DETAILS
-- When i check the buy now option, The customer details and delivery address should be got with the help of a form.
+- When the customer checks the buy now option, The customer details and delivery address should be got with the help of a form.
 
 ### PROGRESSION 1 | CART TOTAL
 - The last option is generating the bill with applicable taxes, along with the shipping address of the product.
