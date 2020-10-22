@@ -44,19 +44,19 @@ Kindly see the output:
 ### PROGRESSION 2 | ENLARGE PRODUCTS
 - When you click on the product it should give a magnified image with the product description.
 
-### PROGRESSION 1 | ADD TO CART
+### PROGRESSION 3 | ADD TO CART
 - Add product to the cart. Cart icon should be updated as and when product gets added.
 
-### PROGRESSION 1 | QUANTITY
+### PROGRESSION 4 | QUANTITY
 - specify the quantity to be added to the shopping cart
 
-### PROGRESSION 1 | CART QUANTITY
+### PROGRESSION 5 | CART QUANTITY
 - Inside the shopping cart the customer can increase or decrease the quantity.
 
-### PROGRESSION 1 | FILL DETAILS
+### PROGRESSION 6 | FILL DETAILS
 - When the customer checks the buy now option, The customer details and delivery address should be got with the help of a form.
 
-### PROGRESSION 1 | CART TOTAL
+### PROGRESSION 7 | CART TOTAL
 - The last option is generating the bill with applicable taxes, along with the shipping address of the product.
 
 ### BONUS 1 | PDF
