@@ -20,7 +20,7 @@ In this exercise, the goal is to recollect all the concepts you have learned so 
 
 Whenever you create a first significant change, you should make your first commit.
 
-3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
+3. Follow these [guidelines to add, commit and push changes](https://github.com/prograd-org/general-guidelines-labs-project-builders.git).
 
 In the end of this document, you will find guidelines on how to submit the exercise.
 
@@ -31,7 +31,7 @@ make sure you did not miss out the features specified below.
 
 ```
 API DETAILS
-https://api.mocki.io/v1/7bd0682b
+https://8d518112-4109-404f-9f57-b8e3c374d098.mock.pstmn.io
 ```
 
 Kindly see the output:
